@@ -1,0 +1,132 @@
+{
+    "idTurma":1,
+    "idProfessor":1,
+    "nomeProfessor":"Eduardo Martins",
+    "semestreTurma":"2020/01",
+    "alunos":[
+       {
+          "nome":"Adelina Baranda",
+          "idAluno":"00101"
+       },
+       {
+          "nome":"Adelina Baranda",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Alexandre Mesquita",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Anna Gil",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Ant\u00f3nio Farias",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Aurelia Castelhano",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Brulio Grillo",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Celina Cezimbra",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Davide Caiap\u00f3",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Deolinda Paranagu\u00e1",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Dino Quintero",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Dion\u00edsio Pessoa",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Flor\u00eancio Monteiro",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Godofredo Camarinho",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Luciana Linhares",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Mariana Anjos",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Marli Esteves",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Maura Granja",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Maura Verguero",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Nilza Mansilla",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Pol\u00edbio Piteira",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Selma Malheiros",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Silvana Teixeira",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Solange Mu\u00f1iz",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"S\u00edlvia Sacramento",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Tatiana Clementino",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Trist\u00e3o Delgado",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"T\u00e9rcio Perdig\u00f3n",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Urbano Noronha",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Veridiana Beiriz",
+          "idAluno":"00102"
+       },
+       {
+          "nome":"Vicente Estrada",
+          "idAluno":"00102"
+       }
+    ]
+ }

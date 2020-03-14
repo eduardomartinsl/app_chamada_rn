@@ -1,4 +1,4 @@
-# ReactNativeDefaultProject
+# app_chamada_rn
 
 Aplicativo de auxílio em chamada (Sala de aula)
 
