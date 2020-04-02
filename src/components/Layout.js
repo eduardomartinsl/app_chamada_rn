@@ -1,5 +1,5 @@
 import React from 'react'
-import {} from 'react-native'
+import {SafeAreaView} from 'react-native'
 import styled from 'styled-components/native'
 
 //https://styled-components.com/docs/basics#getting-started
