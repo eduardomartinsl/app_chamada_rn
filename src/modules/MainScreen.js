@@ -34,12 +34,10 @@ export default function MainScreen() {
 const LISTA_ALUNOS = [
   {
     nome: "Eduardo Martins",
-    rga: "201211310025",
-    presente: true
+    rga: "201211310025"
   },
   {
     nome:"Maeli Romero",
-    rga : "201211310025",
-    presente: false
+    rga : "201211310025"
   }
 ]
