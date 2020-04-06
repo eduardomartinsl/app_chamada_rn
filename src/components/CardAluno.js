@@ -6,7 +6,7 @@ import colors from "../resources/colors"
 
 export default function CardAluno({ nome, rga}) {
 
-    const [presente, setPresente] = useState(false)
+    const [presente, setPresente] = useState(true)
 
     return (
         <Card style={{ minHeight: 80, margin: 8 }}>
