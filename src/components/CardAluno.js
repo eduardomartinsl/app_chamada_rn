@@ -9,11 +9,11 @@ export default function CardAluno({ nome, rga}) {
     const [presente, setPresente] = useState(true)
 
     return (
-        <Card style={{ minHeight: 80, margin: 8 }}>
+        <Card style={{ minHeight: 80, marginHorizontal: 16, marginVertical: 8 }}>
             <TouchableOpacity activeOpacity={.6} style={{flex: 1}} onPress={() => { setPresente(!presente) }}>
                 <Row style={{ flex: 1 }}>
-                    <View style={{ backgroundColor: presente ? colors.verde : colors.vermelho, width: 16 }} />
-                    <Col style={{ padding: 8, alignSelf: "flex-start", flex: 1 }}>
+                    <View style={{ backgroundColor: presente ? colors.verde : colors.vermelho, width: 8 }} />
+                    <Col style={{ padding: 5, alignSelf: "flex-start", flex: 1 }}>
                         <Text style={{ fontWeight: "bold", marginBottom: 4 }}>
                             {nome}
                         </Text>
