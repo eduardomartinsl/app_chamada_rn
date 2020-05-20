@@ -7,7 +7,7 @@ import CardAluno from "../components/CardAluno";
 import { Container } from "../components/Layout";
 
 
-export default function MainScreen() {
+export default function ChamadaScreen() {
   let [alunos] = useState(LISTA_ALUNOS);
 
   return (

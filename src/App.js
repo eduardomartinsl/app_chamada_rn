@@ -1,21 +1,17 @@
 import React from 'react';
-import {  } from 'react-native';
-import { createStackNavigator } from 'react-navigation-stack';
-import MainScreen from "./modules/MainScreen"
-import { createAppContainer } from 'react-navigation';
+import { } from 'react-native'; 
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import MenuPrincipalScreen from './modules/MenuPrincipalScreen'
 
-const AppNavigator = createStackNavigator({
-  MainScreen
-}, {
-  initialRouteName: 'MainScreen'
-})
+export default function App() {
 
-const App = createAppContainer (AppNavigator)
-
-export default function(){
-  return (
-    <>
-      <App/>
-    </>
+  const Stack = createStackNavigator();
+  return(
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen name="Tela Principal" component={MenuPrincipalScreen}/>
+      </Stack.Navigator>
+    </NavigationContainer>
   )
 }
