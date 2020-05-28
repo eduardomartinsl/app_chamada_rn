@@ -6,7 +6,7 @@ export default function InputText({title, placeholder}) {
   return (
     <View>
       <Text>{title}</Text>
-      <TextInput style={{ borderWidth: 1, borderRadius: 4, padding: 8, marginTop: 4}} placeholder={placeholder} />
+      <TextInput style={{ borderWidth: 1, borderRadius: 4, padding: 8, marginTop: 4, backgroundColor: 'white', borderColor: '#DDD'}} placeholder={placeholder} />
     </View>
   )
 }
